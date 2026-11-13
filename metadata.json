@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดตารางกะงานอัตโนมัติ (Auto Shift Roster)",
+  "description": "โปรแกรมจัดตารางกะงานอัตโนมัติสำหรับพนักงานขับเครื่องมือและพนักงานขับรถ รองรับการเปลี่ยนเวร ปฏิทินรายเดือน/รายสัปดาห์ และคำนวณโอทีอัตโนมัติเมื่อมีคนลา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
